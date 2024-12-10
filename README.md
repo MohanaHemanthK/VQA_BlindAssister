@@ -63,6 +63,7 @@ This repository contains the code and resources for building a Visual Question A
 
 ---
 ## Results:
+**Sound ON**
 
-https://github.com/user-attachments/assets/a29f7ef2-0f31-4eee-a139-0c8a36e2d9db
+https://github.com/user-attachments/assets/b58ffd22-717c-451d-a60a-687d2e7d0297
 
