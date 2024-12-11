@@ -1,6 +1,10 @@
 # Visual Question Answering (VQA) for Accessibility
 
 This repository contains the code and resources for building a Visual Question Answering (VQA) system, aimed at assisting visually impaired individuals. The project leverages deep learning models to answer questions about images, integrating both vision and natural language processing capabilities.
+## Team Members
+- Mohana Hemanth Kundurthi (Team Leader)
+- Venkata Sai Sumanth Aketi (Team Member)
+- Shiva Kumar Goud Mucharla (Team Member)
 
 ## Features
 - **Exploratory Data Analysis (EDA)**: Understand the dataset and prepare it for model training.
