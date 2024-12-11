@@ -1,10 +1,24 @@
 # Visual Question Answering (VQA) for Accessibility
 
 This repository contains the code and resources for building a Visual Question Answering (VQA) system, aimed at assisting visually impaired individuals. The project leverages deep learning models to answer questions about images, integrating both vision and natural language processing capabilities.
+
 ## Team Members
 - Mohana Hemanth Kundurthi (Team Leader)
 - Venkata Sai Sumanth Aketi (Team Member)
 - Shiva Kumar Goud Mucharla (Team Member)
+
+## Dataset Overview
+Dataset we used is [**VQA 2.0**](https://visualqa.org/index.html).
+
+- **Purpose:** The dataset is designed to train models to answer open-ended questions about images. These questions require an understanding of vision, language, and commonsense knowledge2.
+
+- **Images:** It contains 265,016 images, including images from the COCO dataset and abstract scenes.
+
+- **Questions:** Each image has at least 3 questions on average, with a total of 1,105,904 questions in the dataset.
+
+- **Answers:** For each question, there are 10 ground truth answers and 3 plausible but likely incorrect answers.
+
+- **Automatic Evaluation:** The dataset includes an automatic evaluation metric to assess the performance of models
 
 ## Features
 - **Exploratory Data Analysis (EDA)**: Understand the dataset and prepare it for model training.
@@ -22,7 +36,7 @@ This repository contains the code and resources for building a Visual Question A
 
 ### `InferenceModelV3.ipynb`
 - Prepares the trained model for inference.
-- Integrates voice input using `SpeechRecognition` for user-friendly interaction.
+- Integrates voice input using `SpeechRecognition` and `gtts (Google Text To Speech)` for user-friendly interaction.
 - Generates responses to queries about given images.
 
 ### `Model_testing.ipynb`
@@ -64,6 +78,9 @@ This repository contains the code and resources for building a Visual Question A
 1. Open FinalInferenceModel.ipynb.
 2. Load the trained model weights.
 3. Provide access to microphone and webcam and then.
+
+---
+## Visualizations:
 
 ---
 ## Results:
