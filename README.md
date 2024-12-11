@@ -103,3 +103,9 @@ The Video provided below shows the final results.
 
 https://github.com/user-attachments/assets/b58ffd22-717c-451d-a60a-687d2e7d0297
 
+---
+## References:
+1. Goyal, Y., Khot, T., Summers-Stay, D., Batra, D., & Parikh, D. (2017, May 15). Making the V in VQA matter: Elevating the role of image understanding in visual question answering. arXiv.org. https://arxiv.org/abs/1612.00837
+2. Bordes, F., Pang, R. Y., Ajay, A., Li, A. C., Bardes, A., Petryk, S., Mañas, O., Lin, Z., Mahmoud, A., Jayaraman, B., Ibrahim, M., Hall, M., Xiong, Y., Lebensold, J., Ross, C., Jayakumar, S., Guo, C., Bouchacourt, D., Al-Tahan, H., … Chandra, V. (2024, May 27). An introduction to vision-language modeling. arXiv.org. https://arxiv.org/abs/2405.17247
+3. Rotstein, N., Bensaid, D., Brody, S., Ganz, R., & Kimmel, R. (2023, November 15). FUSECAP: Leveraging large language models for enriched fused image captions. arXiv.org. https://arxiv.org/abs/2305.17718
+4. Jiang, X., Zheng, J., Liu, R., Li, J., Zhang, J., Matthiesen, S., & Stiefelhagen, R. (2024, November 25). @Bench: Benchmarking vision-language models for human-centered assistive technology. arXiv.org. https://arxiv.org/abs/2305.17718
